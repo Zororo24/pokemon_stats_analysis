@@ -85,4 +85,8 @@ This analysis explores Pokemon statistics using Python, focusing on understandin
 - seaborn
 
 ## Data Source
-The analysis uses a Pokemon dataset from kaggle which containing information about all Pokemon up to the latest generation, including their base stats, types, and other attributes 
+The analysis uses a Pokemon dataset from kaggle which containing information about all Pokemon up to the latest generation, including their base stats, types, and other attributes.
+
+## Contact
+Abhishek Shinde - abhivshinde24@gmail.com 
+Project Link - https://github.com/Zororo24/pokemon_stats_analysis
